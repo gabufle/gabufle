@@ -43,16 +43,10 @@ My goal is to build software that makes life easier for bench scientists navigat
 ### 📊 Stats
 
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabufle&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabufle&layout=compact&theme=default&hide_border=true" />
-
 </div>
 
----
-
 <div align="center">
-
-*Always open to conversations about research tooling, lab automation, or bioinformatics.*
-
+Always open to conversations about research tooling, lab automation, or bioinformatics.
 </div>
