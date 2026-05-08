@@ -1,67 +1,59 @@
+<div align="center">
+
 # Gabriel Franchet-Schaer · `gabufle`
 
-Researcher at the intersection of **computational biology** and **AI automation**.  
-Building tools that help science move faster.
+**bench scientist · builder · automator**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--5487--916X-a6ce39?logo=orcid&logoColor=white&labelColor=555)](https://orcid.org/0009-0000-5487-916X)
+
+</div>
 
 ---
 
 ## About
 
-I write code that lives at the boundary between biology and computation — from implementing sequence alignment algorithms in C++ to building LLM-powered research bots that surface relevant papers from arXiv and PubMed every morning before I wake up.
+I spend my days at the bench — pipetting, running gels, growing cells. I know firsthand how much wet lab science still runs on repetition, manual note-taking, and gut feel. That frustration is what got me coding.
 
-My work combines a rigorous scientific background (hence the ORCID) with a hands-on engineering approach: if a repetitive research task exists, I'd rather automate it.
+My goal is simple: build software that makes life easier for bench scientists navigating the age of computation. Tools that help us **stay on top of the literature, automate the tedious, and spend more time on the science that actually matters** — instead of drowning in administrative friction.
+
+I'm not a software engineer who got curious about biology. I'm a scientist who learned to code out of necessity — and I haven't stopped since.
 
 ---
 
 ## Projects
 
-### 🔬 [OpenClaw Research Bot](https://github.com/gabufle/OpenClaw-Research-Bot)
-An autonomous research assistant that runs while you sleep.  
-Scrapes **arXiv** and **PubMed** daily, ranks papers using **Gemini 2.5 Flash**, deduplicates against a rolling 7-day history, and delivers a curated digest to a **Telegram** channel — fully Dockerized, zero-maintenance.
+### 🤖 [OpenClaw Research Bot](https://github.com/gabufle/OpenClaw-Research-Bot)
 
-`Python` · `Gemini AI` · `Docker` · `Telegram Bot API`
+Scrapes arXiv and PubMed overnight, ranks results with **Gemini 2.5 Flash**, and delivers a curated digest to Telegram every morning — so I can start the day knowing what's new in the field without sifting through search engines.  
+Zero-maintenance, fully Dockerized, with 7-day deduplication so you never see the same paper twice.
+
+`Python` · `Gemini AI` · `arXiv` · `PubMed` · `Docker` · `Telegram`
 
 ---
 
 ### 🧬 [Smith-Waterman Gene Analysis](https://github.com/gabufle/Smith-Waterman-Gene-Analysis)
-Implementation of the **Smith-Waterman** local sequence alignment algorithm applied to gene analysis.  
-Performance-critical alignment core written in **C++**, with a **Python** scripting layer for orchestration and output processing.
 
-`C++` · `Python` · `Bioinformatics`
+A C++ implementation of the Smith-Waterman local sequence alignment algorithm, with a Python scripting layer for orchestration and output processing.  
+Built to understand the algorithm from the ground up — not just call a library.
+
+`C++` · `Python` · `Bioinformatics` · `Sequence Alignment`
 
 ---
 
 ## Stack
 
 ```
-Languages  →  Python · C++ · Ruby
-AI / APIs  →  Gemini · arXiv API · PubMed API
-Tooling    →  Docker · Telegram Bot API
+Languages    Python · C++ · Ruby
+AI / APIs    Gemini · arXiv API · PubMed API
+Tooling      Docker · Telegram Bot API
+Background   Wet lab bench science
 ```
 
 ---
 
-## Interests
+<div align="center">
 
-`computational biology` · `bioinformatics` · `sequence alignment`  
-`AI-assisted research` · `research automation` · `autonomous agents`
+*Building at the intersection of biology and computation.*  
+*Always open to conversations about research tooling, lab automation, or bioinformatics.*
 
----
-
-*Always open to conversations about research tooling, bioinformatics, or AI in science.*
-<!--
-**gabufle/gabufle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
